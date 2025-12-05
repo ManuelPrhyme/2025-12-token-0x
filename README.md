@@ -65,13 +65,14 @@ Build:
 
 git clone https://github.com/CodeHawks-Contests/2025-12-token-0x.git
 
-forge install
+#### The project structure already fits a Foundry project, simply initialising will integrate the Foundry library and configuration, it's much easier
+forge init --force
 
 ```
 
 Tests:
 ```bash
-Forge test
+forge test
 ```
 
 [//]: # (getting-started-close)
