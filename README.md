@@ -65,7 +65,7 @@ Build:
 
 git clone https://github.com/CodeHawks-Contests/2025-12-token-0x.git
 
-#### The project structure already fits a Foundry project, simply initialising will integrate the Foundry library and configuration, it's much easier
+#### The project structure already fits a Foundry project, simply initializing it will integrate the Foundry library and configuration, it's much easier
 forge init --force
 
 ```
